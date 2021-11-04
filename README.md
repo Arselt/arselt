@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Arath Astorga 👋🏽
+
+👨🏽‍💻 Frontend Developer, In search of Building high-quality and iterative products
+with a Startup or Scaleup while helping the world.
+
+Passionate of Technology ⚙, landscape photography 📷, pc gaming/building/fixing 🕹
+and entrepreneurship 🚀
 
 <!--
 **Arselt/arselt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
