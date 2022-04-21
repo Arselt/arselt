@@ -1,3 +1,5 @@
+![arselt-cover](https://user-images.githubusercontent.com/56246139/164559260-1748421b-a196-46a7-993a-8dd2b08ff5b7.png)
+
 ### Hi there, I'm Arath Astorga 👋🏽
 
 👨🏽‍💻 Frontend Developer, In search of Building high-quality and iterative products with a Startup or Scaleup while helping LATAM and the world.
