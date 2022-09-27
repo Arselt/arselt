@@ -2,15 +2,19 @@
 
 ### Hi there, I'm Arath Astorga 👋🏽
 
-👨🏽‍💻 Frontend Developer, In search of Building high-quality and iterative products with a Startup or Scaleup while helping LATAM and the world.
+👨🏽‍💻 Frontend Developer, doing and learning awesome stuff as a Software Developer, Photographer and generally a Tech Enthusiast. Exploring and looking to start up or join to an amazing project that will change the world! Contact me, we will figure it out. 
+Aiming to the Stars. 🌌
 
-I'm based in Gomez Palacio, Durango, Mexico. 💪🌵🌞 working remote 🌐
+Hands-on experience with HTML, CSS, JavaScript (React) as a main stack for developing projects I have used Python, PHP, C# .Net and C++ in the past. And had spent sometime with cameras and software like Adobe XD, Figma, Photoshop, Adobe Lightroom, even live broadcasting or video editing software.
 
-I'm currently seeking for a job as Frontend Web Developer in fintech, decentralization, edutainment, hardware and alternative energies or other ways to combat climate change.
+- Conversational English
+- Native Spanish
+- Learning Portuguese
 
-Long life learner 🤓 and gamer 💜.
+Interest in Space, Scientific Divulgation, Engineering, Maths and Architecture.
 
-Passionate of Technology ⚙, landscape photography 📷, pc gaming/building/fixing 🕹 and entrepreneurship 🚀.
+From Gomez Palacio, Durango, Mexico 🌵 Working remote. 🌐
+Long life learner and gamer. 💜
 
 <!--
 **Arselt/arselt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
